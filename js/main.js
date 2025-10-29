@@ -138,7 +138,7 @@ $(document).ready(function () {
 
   // FAQ Toggle Function
   window.toggleFAQ = function (id) {
-    const $answer = $(`#answer-${id}`);
+    const $answer = $(`#content-${id}`);
     const $icon = $(`#icon-${id}`);
 
     if ($answer.hasClass("hidden")) {
