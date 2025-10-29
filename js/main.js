@@ -12,8 +12,8 @@ $(document).ready(function () {
   feather.replace();
 
   const images = [
-    "images/ladakh-nubra.webp",
-    "images/ladkh-k.webp",
+    "images/amazing.webp",
+    "images/beautiful-ladakh.webp",
     "images/ladkh-turkh.webp",
   ];
 
